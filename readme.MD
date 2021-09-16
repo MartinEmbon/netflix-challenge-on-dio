@@ -3,7 +3,7 @@
 
 A simple and nice UI recreating Netflix platform. 
 
-<img src="/images/readme_home.png" width="400">
+<img src="/public/images/readme_home.png" width="700">
 
 OWL Carousel used is an interesting plugin for sliders.
 
